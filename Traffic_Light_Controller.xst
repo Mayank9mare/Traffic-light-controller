@@ -1,0 +1,5 @@
+set -tmpdir "D:/Dkibkchodi/TraaficLight/xst/projnav.tmp"
+set -xsthdpdir "D:/Dkibkchodi/TraaficLight/xst"
+elaborate
+-ifn Traffic_Light_Controller.prj
+-ifmt mixed
